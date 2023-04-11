@@ -1,2 +1,2 @@
 # hackerRank_withJava
-dailyJavaSolution
+This repo is about the Java tutorial on HackerRank.
