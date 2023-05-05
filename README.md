@@ -1,7 +1,7 @@
 # hackerRank_withJava
 This repo is about Java tutorials on HackerRank, and I will add important points of what I've learned.
 
-IMPORTANT POINTS
+**IMPORTANT POINTS**
 
 #JAVA DATATYPES
 - byte => A byte is an 8-bit signed integer. It has a mininmum value of -128 and a maximum value of 127 (inclusive). 
@@ -14,3 +14,5 @@ byte < short < int < long**
 
 
 ----------------------------------------------------------------------------------------------------------
+#JAVA END-OF-LIFE
+has.Next() method => In Java, the hasNext() method is used to check if there is a next input item unless the end of a data stream or file is reached. Input processing classes, such as the Scanner class, can read data in different ways. The hasNext() method checks if there is more data to read in the input stream and returns true if there is data to read. This method allows you to read all data from the input stream using it in a loop. For example, to read all lines in a file, the hasNext() method can be used in a loop until the end of the file is reached. 
